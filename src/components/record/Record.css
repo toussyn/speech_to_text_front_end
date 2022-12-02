@@ -1,0 +1,10 @@
+.home-div{
+    position: relative;
+}
+.loading{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    z-index: 55;
+
+}
