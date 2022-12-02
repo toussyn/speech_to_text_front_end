@@ -1,5 +1,5 @@
 # text-to-speech-front-end
-A React front end for https://github.com/10AcademyB6Week7/text-to-speech-data-collection
+A React front end for https://github.com/toussyn/speech_to_text_pipeline
 
 
 # Getting Started with Create React App
